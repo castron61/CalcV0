@@ -1,0 +1,13 @@
+{
+      "name": "3d-gui-app",
+      "version": "1.0.0",
+      "description": "A high-performance, cloud-compatible, and memory-efficient 3D GUI application.",
+      "main": "main.py",
+      "scripts": {
+        "start": "python main.py"
+      },
+      "dependencies": {
+        "PyOpenGL": "^3.1.5",
+        "tkinter": "^0.0.0"
+      }
+    }
